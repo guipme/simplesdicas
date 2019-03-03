@@ -15,13 +15,14 @@
             "title": "Olá mundo!",
             "summary": "Static sites carregam mais rápido :-)",
             "content_html": "Static sites carregam mais rápido :-)",
+            "image": "https://guipme.github.io/simplesdicas/media/posts/2/NASAMarsVR.png",
             "author": {
                 "name": "Guilherme Pombo"
             },
             "tags": [
             ],
             "date_published": "2019-03-03T15:32:33-03:00",
-            "date_modified": "2019-03-03T15:32:33-03:00"
+            "date_modified": "2019-03-03T15:54:55-03:00"
         },
         {
             "id": "https://guipme.github.io/simplesdicas/teste/",

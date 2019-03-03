@@ -3,7 +3,7 @@
     <title>Simples Dicas</title>
     <link href="https://guipme.github.io/simplesdicas/feed.xml" rel="self" />
     <link href="https://guipme.github.io/simplesdicas" />
-    <updated>2019-03-03T15:45:45-03:00</updated>
+    <updated>2019-03-03T15:58:54-03:00</updated>
     <author>
         <name>Guilherme Pombo</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://guipme.github.io/simplesdicas/ola-mundo/"/>
         <id>https://guipme.github.io/simplesdicas/ola-mundo/</id>
 
-        <updated>2019-03-03T15:32:33-03:00</updated>
+        <updated>2019-03-03T15:54:55-03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://guipme.github.io/simplesdicas/media/posts/2/NASAMarsVR.png" alt="" />
                     Static sites carregam mais rápido :-)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://guipme.github.io/simplesdicas/media/posts/2/NASAMarsVR.png" alt="" />
                 Static sites carregam mais rápido :-)
             ]]>
         </content>
