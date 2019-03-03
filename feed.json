@@ -5,6 +5,7 @@
     "home_page_url": "https://guipme.github.io/simplesdicas",
     "feed_url": "https://guipme.github.io/simplesdicas/feed.json",
     "user_comment": "",
+    "icon": "https://guipme.github.io/simplesdicas/media/website/simplesdicas-n.png",
     "author": {
         "name": "Guilherme Pombo"
     },
@@ -22,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2019-03-03T15:32:33-03:00",
-            "date_modified": "2019-03-03T15:54:55-03:00"
+            "date_modified": "2019-03-03T16:14:55-03:00"
         },
         {
             "id": "https://guipme.github.io/simplesdicas/teste/",
