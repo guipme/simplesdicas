@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Simples Dicas",
+    "description": "",
+    "home_page_url": "https://guipme.github.io/simplesdicas",
+    "feed_url": "https://guipme.github.io/simplesdicas/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Guilherme Pombo"
+    },
+    "items": [
+        {
+            "id": "https://guipme.github.io/simplesdicas/ola-mundo/",
+            "url": "https://guipme.github.io/simplesdicas/ola-mundo/",
+            "title": "Olá mundo!",
+            "summary": "Static sites carregam mais rápido :-)",
+            "content_html": "Static sites carregam mais rápido :-)",
+            "author": {
+                "name": "Guilherme Pombo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-03T15:32:33-03:00",
+            "date_modified": "2019-03-03T15:32:33-03:00"
+        },
+        {
+            "id": "https://guipme.github.io/simplesdicas/teste/",
+            "url": "https://guipme.github.io/simplesdicas/teste/",
+            "title": "Teste",
+            "summary": "Isso é o teste de um post.",
+            "content_html": "Isso é o teste de um post.",
+            "author": {
+                "name": "Guilherme Pombo"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-03T15:31:39-03:00",
+            "date_modified": "2019-03-03T15:31:39-03:00"
+        }
+    ]
+}

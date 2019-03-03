@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Simples Dicas</title>
+    <link href="https://guipme.github.io/simplesdicas/feed.xml" rel="self" />
+    <link href="https://guipme.github.io/simplesdicas" />
+    <updated>2019-03-03T15:45:45-03:00</updated>
+    <author>
+        <name>Guilherme Pombo</name>
+    </author>
+    <id>https://guipme.github.io/simplesdicas</id>
+
+    <entry>
+        <title>Olá mundo!</title>
+        <author>
+            <name>Guilherme Pombo</name>
+        </author>
+        <link href="https://guipme.github.io/simplesdicas/ola-mundo/"/>
+        <id>https://guipme.github.io/simplesdicas/ola-mundo/</id>
+
+        <updated>2019-03-03T15:32:33-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Static sites carregam mais rápido :-)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Static sites carregam mais rápido :-)
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Teste</title>
+        <author>
+            <name>Guilherme Pombo</name>
+        </author>
+        <link href="https://guipme.github.io/simplesdicas/teste/"/>
+        <id>https://guipme.github.io/simplesdicas/teste/</id>
+
+        <updated>2019-03-03T15:31:39-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Isso é o teste de um post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Isso é o teste de um post.
+            ]]>
+        </content>
+    </entry>
+</feed>
